@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Taro
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Visuth Kuptsunti
+========================================================================================================================================
 
-=========================================================================================================================================
-
-<h3 align="center">Junior Web Developer, Python Developer</h3>
+Junior Web Developer, Python Developer
 --------------------------------------
 
 * 🌍 I'm based in Bangkok
